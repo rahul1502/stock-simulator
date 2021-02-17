@@ -2,7 +2,7 @@
 let price = 1000.22;
 let status = '+';
 
-const acc = 1.5;
+const acc = 2.5;
 
 const RAND_MIN = 2;
 const RAND_MAX = -2;
